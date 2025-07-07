@@ -1,6 +1,6 @@
 # Ignore files in the artifact directory
-/ml-100k/
+/artifacts/
 
 # Ignore all files in the artifact directory recursively
-/ml-100k/**
+/artifacts/**
 
