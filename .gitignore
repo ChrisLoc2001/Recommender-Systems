@@ -1,6 +1,6 @@
 # Ignore files in the artifact directory
-/artifacts/
+/datasets/
 
 # Ignore all files in the artifact directory recursively
-/artifacts/**
+/datasets/**
 
