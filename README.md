@@ -6,20 +6,12 @@ Un sistema di raccomandazione di film basato su un **approccio ibrido**, che com
 
 ## 🧱 Architettura
 
-RECOMMENDER-SYSTEM/
-│
-├── Clustering: Contiene i vari notebook di prova utilizzati per trovare la miglior tecnica di clustering per item e user.
-├── Hybrid-User-Based: Contiene il sistema di raccomandazione con approccio ibrido
-|
-├── Image: Cartella che contiene le immagini dei grafici
-│
-├── Prove Iniziali Collaborative: Contiene tutte le prove iniziali del Collaborative filtering user-based e item-based
-│
-├── User-Based: Cartella contenente il sistema di raccomandazione con approccio Collaborative Filtering User-based
-│
-├── datasets/
-├── requirements.txt
-└── README.md
+RECOMMENDER-SYSTEM:
+-Clustering: Contiene i vari notebook di prova utilizzati per trovare la miglior tecnica di clustering per item e user.
+-Hybrid-User-Based: Contiene il sistema di raccomandazione con approccio ibrido
+-Image: Cartella che contiene le immagini dei grafici
+-Prove Iniziali Collaborative: Contiene tutte le prove iniziali del Collaborative filtering user-based e item-based
+-User-Based: Cartella contenente il sistema di raccomandazione con approccio Collaborative Filtering User-based
 
 ## 🧠 Descrizione del progetto
 
